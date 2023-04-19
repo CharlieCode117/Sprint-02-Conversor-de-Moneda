@@ -36,11 +36,8 @@ El proyecto funciona con las instrucciones y consignas dictadas directamente por
 ![image](https://user-images.githubusercontent.com/111110959/232958296-e1e9e7e6-64a9-4e85-8579-9e5cda20a690.png)
 
 De ser seleccionado algún factor como por ejemplo °C a °F y colocar una temperatura aleatoria, se tiene el resultado:
-
 ![image](https://user-images.githubusercontent.com/111110959/232958506-d145abed-264f-4e89-b42f-d5b5d3b3d9d7.png)
-
 ![image](https://user-images.githubusercontent.com/111110959/232958555-d5d2740b-6cc9-4b1d-ac40-339c112a1cba.png)
-
 6.- Es así como trabaja el conversor, realmente es adecuado para una aplicación rápida, puede ser mejorado gráficamente y/o lógicamente, añadiendo colores, imágenes y otros factores de conversión como DEC a BIN, etc. 
 
 <h2 align="center">Tecnologías Utilizadas </h2>
