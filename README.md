@@ -49,5 +49,5 @@ De ser seleccionado algún factor como por ejemplo °C a °F y colocar una tempe
 * Eclipse IDE
 
 <p align="left">
-<img src="https://img.shields.io/conda/l/conda-forge/setuptools?style=flat-square">
+<img src="https://img.shields.io/bower/l/bootstrap">
 </p>
