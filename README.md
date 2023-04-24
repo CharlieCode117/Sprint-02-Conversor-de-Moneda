@@ -23,6 +23,12 @@ El proyecto funciona con las instrucciones y consignas dictadas directamente por
 
 ![image](https://user-images.githubusercontent.com/111110959/232957666-8bd35521-49d7-46f4-9df7-5e4a665a552b.png)
 
+3.2.- Si por alguna razón se ingresan caracteres otros que un número, entonces envía un mensaje de alerta.
+![image](https://user-images.githubusercontent.com/111110959/234066995-48c2ebae-e988-4f63-93e0-dca387ae1921.png)
+
+![image](https://user-images.githubusercontent.com/111110959/234067063-c13132b7-eaef-4bfc-a557-4c53cc3a90eb.png)
+
+
 4.- Al aceptar el resultado, igualmente siguiendo instrucciones, nos debe preguntar si se desea continuar o no.
 
 ![image](https://user-images.githubusercontent.com/111110959/232957933-7dd8baf5-a28b-4d09-84a6-c64289b7901c.png)
